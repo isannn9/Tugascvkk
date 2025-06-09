@@ -45,7 +45,7 @@
 
 <div class="container">
     <div class="header">
-        <img src=" alt="jj.jpg">
+        <img src="jj.jpg" alt="jj.jpg">
         <div>
             <h1>nama anda</h1>
             <p>Email: ipan3445@email.com<br>
